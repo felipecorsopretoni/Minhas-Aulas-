@@ -1,0 +1,19 @@
+Cálculo IMC
+IMC é a sigla para Índice de Massa Corpórea, parâmetro adotado pela Organização Mundial de Saúde para calcular o peso ideal de cada pessoa.
+
+O índice é calculado da seguinte maneira: divide-se o peso do paciente pela sua altura elevada ao quadrado. 
+https://www.programasaudefacil.com.br/calculadora-de-imc
+
+Classificação do IMC de acordo com a OMS:
+IMC <18,5kg/m2 - baixo peso.
+IMC >18,5 até 24,9kg/m2 - eutrofia (peso adequado)
+IMC ≥25 até 29,9kg/m2 - sobrepeso.
+IMC >30,0kg/m2 até 34,9kg/m2 - obesidade grau 1.
+IMC >35kg/m2 até 39,9kg/m2 - obesidade grau 2.
+IMC > 40kg/m2 - obesidade extrema.
+https://ge.globo.com/eu-atleta/nutricao/post/2022/08/17/veja-qual-e-o-imc-ideal-e-como-calcular.ghtml
+
+Fórmula para calcular calorias diárias
+homem: (13,75 x peso em quilos) + (5 x altura em centímetros) – (6,76 x idade em anos) + 66,5;
+mulher: (9,56 x peso em quilos) + (1,85 x altura em centímetros) – (4,68 x idade em anos) + 665.
+https://www.vitasay.com.br/blog/alimentacao/aprenda-como-calcular-calorias-diarias-e-o-que-fazer-para-emagrecer
