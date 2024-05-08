@@ -1,1 +1,41 @@
 Cronograma aula 3 - repositório da aula 3, onde realizamos a criação de um cronograma no Project.
+
+// aula do Robo - Homologado
+#define rodaD 5
+#define rodaE 6
+
+#include <Servo.h>
+
+Servo rEsq;
+Servo rDir;
+
+int pos = 0;
+
+void setup(){
+  rEsq.attach(rodaE);
+  rDir.attach(rodaD);
+
+    rEsq.write(180);
+    rDir.write(0);
+    delay(1000);
+    
+}
+
+void loop(){
+      rEsq.write(0);
+      rDir.write(180);
+      delay(1000);
+
+      rEsq.write(90);
+      rDir.write(90);
+      delay(1000);
+   
+      rEsq.write(180);
+      rDir.write(0);
+      delay(1000);
+
+      rEsq.write(90);
+      rDir.write(90);
+      delay(1000);
+      
+}
